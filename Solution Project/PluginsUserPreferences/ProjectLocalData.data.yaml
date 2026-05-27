@@ -1,0 +1,6 @@
+data:
+  externalSources:
+    - a1545133-8cea-4937-9def-e0043db0f4a9: "C:/Users/riyas/AppData/Local/Snap/Lens Studio/LibraryComponents/SurfacePlacement@0.5.0/SurfacePlacement.lspkg"
+    - d498deb8-91d9-43b4-ae25-92cff9086c14: "C:/Users/riyas/AppData/Local/Snap/Lens Studio/LibraryComponents/InteractableHelper@1.1.0/InteractableHelper.lspkg"
+    - f70211ba-4fdd-4fbd-be5d-5d4964eb1e9a: "C:/Users/riyas/AppData/Local/Snap/Lens Studio/LibraryComponents/SnapDecorators@1.0.0/SnapDecorators.lspkg"
+    - f799fddf-642a-417e-8a5f-cd7701c12fc7: "C:/Users/riyas/AppData/Local/Snap/Lens Studio/LibraryComponents/Utilities@1.0.0/Utilities.lspkg"

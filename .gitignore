@@ -1,0 +1,80 @@
+# =====================
+# Lens Studio / Spectacles
+# =====================
+
+# Build output
+/build/
+/dist/
+*.lns
+
+# Lens Studio cache — THIS IS THE BIG ONE
+Solution Project/Cache/
+.lenstudio/
+*.lsstudiocache
+*.cache
+*.tmp
+
+# Spectacles device logs / debug output
+*.log
+/logs/
+
+# Snapchat / Lens Studio project metadata (machine-specific)
+.snap/
+*.snapmeta
+
+# =====================
+# Node / npm
+# =====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.yarn/cache
+.pnp.*
+
+# =====================
+# TypeScript
+# =====================
+*.js.map
+*.d.ts.map
+
+# =====================
+# OS / Editor
+# =====================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Vim / Emacs swap files
+*.swp
+*.swo
+
+# =====================
+# Environment / Secrets
+# =====================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
